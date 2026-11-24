@@ -1,0 +1,73 @@
+{
+  "inventory.interact.fail": {
+    "sounds": [
+      "portableinventorytools:interact_fail"
+    ]
+  },
+  "inventory.interact.pick_up": {
+    "sounds": [
+      "portableinventorytools:pick_up"
+    ]
+  },
+  "inventory.interact.pick_up.precise": {
+    "sounds": [
+      {
+        "name": "portableinventorytools:pick_up",
+        "volume": 0.4,
+        "pitch": 1.2
+      }
+    ]
+  },
+  "inventory.interact.place": {
+    "sounds": [
+      "portableinventorytools:place"
+    ]
+  },
+  "inventory.interact.place.precise": {
+    "sounds": [
+      {
+        "name": "portableinventorytools:place",
+        "volume": 0.4,
+        "pitch": 1.2
+      }
+    ]
+  },
+  "inventory.interact.insert": {
+    "sounds": [
+      "portableinventorytools:insert"
+    ]
+  },
+  "inventory.interact.insert.precise": {
+    "sounds": [
+      {
+        "name": "portableinventorytools:insert",
+        "volume": 0.4,
+        "pitch": 1.2
+      }
+    ]
+  },
+  "inventory.interact.extract": {
+    "sounds": [
+      "portableinventorytools:extract"
+    ]
+  },
+  "inventory.interact.extract.precise": {
+    "sounds": [
+      {
+        "name": "portableinventorytools:extract",
+        "volume": 0.4,
+        "pitch": 1.2
+      }
+    ]
+  },
+  "inventory.interact.cycle.up": {
+    "sounds": [
+      "portableinventorytools:cycle_up"
+    ]
+  },
+  "inventory.interact.cycle.down": {
+    "sounds": [
+      "portableinventorytools:cycle_down"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "${modId}",
+    "name": "Portable Inventory Tools",
+    "description": "Manage portable inventory items from your inventory!",
+    "version": "${modVersion}",
+    "mcversion": "${mcVersion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["phantamanta44"],
+    "logoFile": "assets/portableinventorytools/logo.png",
+    "screenshots": [],
+    "useDependencyInformation": true,
+    "dependencies": ["prelude"],
+    "requiredMods": ["prelude"]
+  }
+]

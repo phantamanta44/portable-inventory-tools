@@ -1,0 +1,15 @@
+{
+  "package": "st.evening.mc.portableinventorytools.mixin",
+  "refmap": "mixins.portableinventorytools.refmap.json",
+  "mixinextras": {
+    "minVersion": "0.5.6"
+  },
+  "mixins": [
+    "ContainerMixin"
+  ],
+  "client": [
+    "BundlesTooltipEventMixin",
+    "MouseTweaksMainMixin",
+    "NetHandlerPlayClientMixin"
+  ]
+}
