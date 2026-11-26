@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "st.evening.mc.portableinventorytools"
-version = "1.0.0"
+version = "1.0.1"
 
 preludeBuild {
     modId = "portableinventorytools"
