@@ -2,7 +2,7 @@
   "package": "st.evening.mc.portableinventorytools.mixin",
   "refmap": "mixins.portableinventorytools.refmap.json",
   "mixinextras": {
-    "minVersion": "0.5.6"
+    "minVersion": "0.5.0"
   },
   "mixins": [
     "ContainerMixin"
