@@ -42,12 +42,12 @@
        y1="243.88165"
        x2="134.3199"
        y2="351.12549"
-       gradientTransform="matrix(-0.66669801,0,0,-0.66669801,441.20412,319.05687)" />
+       gradientTransform="matrix(-0.66669801,0,0,-0.66669801,433.14178,321.86292)" />
     <linearGradient
        xlink:href="#linearGradient55"
        id="linearGradient54"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.66669801,0,0,0.66669801,90.181206,75.331022)"
+       gradientTransform="matrix(0.66669801,0,0,0.66669801,102.75516,78.137073)"
        x1="134.3199"
        y1="243.88165"
        x2="134.3199"
@@ -57,40 +57,40 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:79.0222px;font-family:Inter;-inkscape-font-specification:'Inter Bold';letter-spacing:-0.79375px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:3.175"
-       x="2.7910171"
-       y="164.17435"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:79.0222px;font-family:'Hanken Grotesk';letter-spacing:-0.79375px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:3.175"
+       x="15.364967"
+       y="166.98039"
        id="text4"><tspan
          id="tspan4"
-         style="font-size:79.0222px;stroke-width:3.175;fill:#000000"
-         x="2.7910171"
-         y="164.17435">Portable</tspan></text>
+         style="font-size:79.0222px;fill:#000000;stroke-width:3.175"
+         x="15.364967"
+         y="166.98039">Portable</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:79.0222px;font-family:Inter;-inkscape-font-specification:'Inter Bold';letter-spacing:-0.79375px;writing-mode:lr-tb;direction:ltr;mix-blend-mode:normal;fill:#000000;stroke-width:3.175"
-       x="29.708017"
-       y="218.15244"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:79.0222px;font-family:'Hanken Grotesk';letter-spacing:-0.79375px;writing-mode:lr-tb;direction:ltr;mix-blend-mode:normal;fill:#000000;stroke-width:3.175"
+       x="42.281967"
+       y="220.95848"
        id="text5"><tspan
          id="tspan5"
-         style="font-size:79.0222px;stroke-width:3.175;fill:#000000"
-         x="29.708017"
-         y="218.15244">Inventory</tspan></text>
+         style="font-size:79.0222px;fill:#000000;stroke-width:3.175"
+         x="42.281967"
+         y="220.95848">Inventory</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:79.0222px;font-family:Inter;-inkscape-font-specification:'Inter Bold';letter-spacing:-5.29167px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:3.175"
-       x="197.9332"
-       y="286.48169"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:79.0222px;font-family:'Hanken Grotesk';letter-spacing:-5.29167px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:3.175"
+       x="210.50714"
+       y="289.28775"
        id="text6"><tspan
          id="tspan6"
-         style="font-size:79.0222px;letter-spacing:-5.29167px;stroke-width:3.175;fill:#000000"
-         x="197.9332"
-         y="286.48169">Tools</tspan></text>
+         style="font-size:79.0222px;letter-spacing:-5.29167px;fill:#000000;stroke-width:3.175"
+         x="210.50714"
+         y="289.28775">Tools</tspan></text>
     <path
-       d="m 359.26447,160.6607 28.13846,-28.1381 h -14.68817 c 0,-31.83827 -1.13561,-38.361899 -23.89749,-51.759622 h -32.9136 c 30.99535,14.991164 29.91052,25.163522 29.91052,51.759622 h -14.68783 z"
+       d="m 351.20213,163.46675 28.13846,-28.1381 h -14.68817 c 0,-31.83827 -1.13561,-38.361898 -23.89749,-51.759621 h -32.9136 c 30.99535,14.991164 29.91052,25.163521 29.91052,51.759621 h -14.68783 z"
        style="fill:url(#linearGradient52);stroke:none;stroke-width:2.11677;stroke-opacity:1"
        id="path45-2" />
     <path
-       d="m 172.12087,233.7272 -28.13846,28.1381 h 14.68817 c 0,31.83827 1.13561,38.3619 23.89749,51.75962 h 32.9136 C 184.48632,298.63376 185.57115,288.4614 185.57115,261.8653 h 14.68783 z"
+       d="m 184.69482,236.53325 -28.13846,28.1381 h 14.68817 c 0,31.83827 1.13561,38.3619 23.89749,51.75962 h 32.9136 C 197.06027,301.43981 198.1451,291.26745 198.1451,264.67135 h 14.68783 z"
        style="fill:url(#linearGradient54);stroke:none;stroke-width:2.11677;stroke-opacity:1"
        id="path45-2-0" />
   </g>
